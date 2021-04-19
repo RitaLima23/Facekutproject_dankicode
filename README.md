@@ -1,14 +1,11 @@
-
-PROJETO 02 - FACEKUT (FACEBOOK LOGIN CLONE)
+# PROJETO 02 - FACEKUT (FACEBOOK LOGIN CLONE)
 CURSO: FRONT-END DANKI CODE 👩🏻‍💻
 
-Tecnologias utilizadas:
+*Tecnologias utilizadas:*
+- HTML5
+- CSS3
+- PHP
 
-HTML5
-CSS3
-PHP
-Diferencial:
-
-Responsividade
-
+*Diferencial:*
+- Responsividade
 
