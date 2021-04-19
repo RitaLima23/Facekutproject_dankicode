@@ -1,2 +1,14 @@
-# Facekutproject_dankicode
-Facekut, rede social seguindo o facebook (clone)
+
+PROJETO 02 - FACEKUT (FACEBOOK LOGIN CLONE)
+CURSO: FRONT-END DANKI CODE 👩🏻‍💻
+
+Tecnologias utilizadas:
+
+HTML5
+CSS3
+PHP
+Diferencial:
+
+Responsividade
+
+
